@@ -1,4 +1,4 @@
-# the humming toaster story
+# The humming toaster story
 A story by Lambert Segura, narrated Friday October 27th 2017 for the "Make Some Noise" project at Glasgow School of Art - IxD Y2
 
 Run the sketch.
